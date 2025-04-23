@@ -37,4 +37,5 @@ gcc student_manager.c -o student_manager
  - students.dat – Binary file to store student records (auto-created)
 
 ## 👨‍💻 Author
-Project by a beginner-friendly C programmer learning file handling and data storage.
+I am the author of this project, developed as part of my learning journey in C programming.  
+This project focuses on building foundational skills in file handling and data storage using the C language.
